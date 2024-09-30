@@ -1,0 +1,15 @@
+﻿  lab2.cpp
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(80,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(91,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(96,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(101,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(121,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(126,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(131,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(153,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(158,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(163,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(190,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(195,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\lab2\lab2.cpp(200,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab2.vcxproj -> D:\ПГУ. Учебные пособия\l&oa\Logic_n_OA-main\lab2\lab2\x64\Debug\lab2.exe
