@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0413\u0423. \u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u043F\u043E\u0441\u043E\u0431\u0438\u044F\\l\u0026oa\\Logic_n_OA-main\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE9279-B389-4E90-B2D1-D73803BA2A21}|3.1_stack\\3.1_stack.vcxproj|D:\\\u041F\u0413\u0423. \u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u043F\u043E\u0441\u043E\u0431\u0438\u044F\\l\u0026oa\\Logic_n_OA-main\\lab3\\3.1_stack\\3.1_stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADCE9279-B389-4E90-B2D1-D73803BA2A21}|3.1_stack\\3.1_stack.vcxproj|solutionrelative:3.1_stack\\3.1_stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A94BCA-2438-4E7D-A48E-5270801BA812}|3.2_queue\\3.2_queue.vcxproj|D:\\\u041F\u0413\u0423. \u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u043F\u043E\u0441\u043E\u0431\u0438\u044F\\l\u0026oa\\Logic_n_OA-main\\lab3\\3.2_queue\\3.2_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1A94BCA-2438-4E7D-A48E-5270801BA812}|3.2_queue\\3.2_queue.vcxproj|solutionrelative:3.2_queue\\3.2_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C4142E-643F-4290-A804-445E1C3652AF}|lab3\\lab3.vcxproj|D:\\\u041F\u0413\u0423. \u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u043F\u043E\u0441\u043E\u0431\u0438\u044F\\l\u0026oa\\Logic_n_OA-main\\lab3\\lab3\\lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8C4142E-643F-4290-A804-445E1C3652AF}|lab3\\lab3.vcxproj|solutionrelative:lab3\\lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.2_queue.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0413\u0423. \u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u043F\u043E\u0441\u043E\u0431\u0438\u044F\\l\u0026oa\\Logic_n_OA-main\\lab3\\3.2_queue\\3.2_queue.cpp",
+              "RelativeDocumentMoniker": "3.2_queue\\3.2_queue.cpp",
+              "ToolTip": "D:\\\u041F\u0413\u0423. \u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u043F\u043E\u0441\u043E\u0431\u0438\u044F\\l\u0026oa\\Logic_n_OA-main\\lab3\\3.2_queue\\3.2_queue.cpp",
+              "RelativeToolTip": "3.2_queue\\3.2_queue.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T05:39:12.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.1_stack.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0413\u0423. \u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u043F\u043E\u0441\u043E\u0431\u0438\u044F\\l\u0026oa\\Logic_n_OA-main\\lab3\\3.1_stack\\3.1_stack.cpp",
+              "RelativeDocumentMoniker": "3.1_stack\\3.1_stack.cpp",
+              "ToolTip": "D:\\\u041F\u0413\u0423. \u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u043F\u043E\u0441\u043E\u0431\u0438\u044F\\l\u0026oa\\Logic_n_OA-main\\lab3\\3.1_stack\\3.1_stack.cpp",
+              "RelativeToolTip": "3.1_stack\\3.1_stack.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T05:39:12.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab3.cpp",
+              "DocumentMoniker": "D:\\\u041F\u0413\u0423. \u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u043F\u043E\u0441\u043E\u0431\u0438\u044F\\l\u0026oa\\Logic_n_OA-main\\lab3\\lab3\\lab3.cpp",
+              "RelativeDocumentMoniker": "lab3\\lab3.cpp",
+              "ToolTip": "D:\\\u041F\u0413\u0423. \u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u043F\u043E\u0441\u043E\u0431\u0438\u044F\\l\u0026oa\\Logic_n_OA-main\\lab3\\lab3\\lab3.cpp",
+              "RelativeToolTip": "lab3\\lab3.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T05:39:12.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
